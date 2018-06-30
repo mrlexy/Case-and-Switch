@@ -15,8 +15,8 @@ namespace AreYouBill
                     Console.WriteLine("Bill");
                     break;
 
-                    case "alex":
-                    Console.WriteLine("Alex");
+                    case "alext":
+                    Console.WriteLine("Alext");
                     break;
                     case "tom":
                     Console.WriteLine("Tom");
